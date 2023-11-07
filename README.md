@@ -1,2 +1,2 @@
 # Queue
-Queue programs
+Queue programs in C
