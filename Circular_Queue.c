@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 #define MAX 3
 
 int front=-1,rear=-1;
